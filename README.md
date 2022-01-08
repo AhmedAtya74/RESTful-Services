@@ -1,6 +1,6 @@
 # Web-Service-RESTful-APIs
 
-- We developed a set of REST APIs (RESTFul Services) capable of reading a JSON file deployed on a server and returning information by using a collection of simple HTTP requests. <br> <br>
+We developed a set of REST APIs (RESTFul Services) capable of reading a JSON file deployed on a server and returning information by using a collection of simple HTTP requests. <br> <br>
 
 
 ![image](https://user-images.githubusercontent.com/64374947/148657665-a8c8c7f4-9573-4c3e-b4db-bcdfdd338b8e.png)
