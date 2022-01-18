@@ -31,6 +31,6 @@ We developed a set of REST APIs (RESTful Services) capable of reading a JSON fil
 
 
 ## DEVELOPED BY
-* Ahmed Atya
-* Al-Amir Hassan
+* [Ahmed Atya](https://github.com/AhmedAtya74)
+* [Al-Amir Hassan](https://github.com/AlamirHassan)
 * Moaz Mahmoud
